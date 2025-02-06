@@ -62,7 +62,7 @@ composer install
 6️⃣ Access the application in your browser at http://localhost.
 
 📄 PDF Documentation
-For detailed documentation, including setup instructions, user guide, and more, please refer to the PDF available in the repository:
-[📥 Download PDF Documentation](https://github.com/Amine6363/Amine6363-WebMessagingApp_PHP/blob/ca7df92349b10b383a17f863f6ca3c8192e1ebc7/documentation.pdf)
+For detailed documentation, including descriptions, user guide, and more, please refer to the PDF available in the repository:
+[📥 Click to view Documentation](https://github.com/Amine6363/Amine6363-WebMessagingApp_PHP/blob/ca7df92349b10b383a17f863f6ca3c8192e1ebc7/documentation.pdf)
 
 
