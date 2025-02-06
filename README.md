@@ -63,5 +63,6 @@ composer install
 
 📄 PDF Documentation
 For detailed documentation, including setup instructions, user guide, and more, please refer to the PDF available in the repository:
-[📥 Download PDF Documentation]([https://raw.githubusercontent.com/Amine6363/messaging-app/main/documentation.pdf](https://github.com/Amine6363/Amine6363-WebMessagingApp_PHP/blob/960afe1abbfd34a30c34c99ef45a3a17790adabc/documentation.pdf))
+[📥 Download PDF Documentation](https://raw.githubusercontent.com/yourusername/messaging-app/main/documentation.pdf)
+
 
